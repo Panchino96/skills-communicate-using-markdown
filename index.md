@@ -9,3 +9,7 @@ Creando headers
 python
 print("Hola mundo")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
